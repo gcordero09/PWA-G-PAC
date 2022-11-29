@@ -1,5 +1,5 @@
 <?php
 
-$this->con = new mysqli("localhost", "id19691356_cpm", "~H=X!ff4XeN@#2N", "id19691356_gpac");
+$this->con = new mysqli("containers-us-west-111.railway.app", "root", "LZKQB5I1uj8YeJc1VYNL", "railway");
 
 ?>
