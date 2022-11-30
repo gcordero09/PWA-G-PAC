@@ -21,7 +21,7 @@
     <div class="jumbotron mt-4 pt-4">
       <h1 align="center">Descargar Aplicación APK
         <br>
-        <a align="center" href="https://goo.su/p2hiBM" class="btn-lg active btn-primary">DESCARGAR</a>
+        <a align="center" href="https://goo.su/9ah0l" class="btn-lg active btn-primary">DESCARGAR</a>
       </h1>
 
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
